@@ -33,7 +33,7 @@ Note that .xlsx can be included at the end of each file without changing the res
 |  1   |  20  | $HOME  |  dig   |        |
 |  1   |  52  | whoami |  dig   | $HOME  |
 ```
-![Template XLSX](https://via.placeholder.com/350x150.png "Template XLSX")
+![Template XLSX](https://i.imgur.com/L2T9QTF.png "Template XLSX")
 
 ## Example Output
 ```
@@ -42,4 +42,4 @@ Note that .xlsx can be included at the end of each file without changing the res
 | dig    | 1:20, 1:52 |
 | whoami | 1:52       |
 ```
-![Output XLSX](https://via.placeholder.com/350x150.png "Output XLSX")
+![Output XLSX](https://i.imgur.com/oNrY05T.png "Output XLSX")
